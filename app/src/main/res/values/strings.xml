@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MakanYuk</string>
+    <string name="meal_name">Nama Makanan</string>
+    <string name="desc_short">Lorem ipsum dolor sit amet</string>
+</resources>
